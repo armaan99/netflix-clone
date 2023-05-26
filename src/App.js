@@ -1,7 +1,7 @@
 import "./App.css";
-import Row from "./Row";
-import Banner from "./Banner";
-import Nav from "./Nav";
+import Row from "./component/row/Row";
+import Banner from "./component/banner/Banner";
+import Nav from "./component/nav/Nav";
 import requests from "./requests";
 import { useState } from "react";
 
